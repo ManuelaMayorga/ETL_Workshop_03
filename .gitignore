@@ -1,2 +1,5 @@
 data/
 venv/
+__pycache__/
+.env
+db_settings.json
