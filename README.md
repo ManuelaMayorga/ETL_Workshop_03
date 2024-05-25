@@ -22,6 +22,7 @@ Throughout this process, specific technologies were used including:
 
 ## Workflow
 
+![workshop-3-manuela](https://github.com/ManuelaMayorga/Workshop-03/assets/111150858/3661aeb7-1ed0-45c3-b2a5-aa1dbec379fe)
 
 
 ## Data Source
